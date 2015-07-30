@@ -1,0 +1,6 @@
+D:\Desktop\Mmmkay\Mmmkay\bin\Debug\Mmmkay.exe.config
+D:\Desktop\Mmmkay\Mmmkay\bin\Debug\Mmmkay.exe
+D:\Desktop\Mmmkay\Mmmkay\bin\Debug\Mmmkay.pdb
+D:\Desktop\Mmmkay\Mmmkay\obj\Debug\Mmmkay.csprojResolveAssemblyReference.cache
+D:\Desktop\Mmmkay\Mmmkay\obj\Debug\Mmmkay.exe
+D:\Desktop\Mmmkay\Mmmkay\obj\Debug\Mmmkay.pdb
